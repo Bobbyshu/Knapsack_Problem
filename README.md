@@ -1,9 +1,7 @@
 
-# Research Paper
+# Knapsack Problem
 Name: Yunmu Shu  
-Semester: 2023 Spring  
 Topic: KnapSack  
-Link The Repository: https://github.com/Spring23-CS5008-BOS-Lionelle/research-project-Bobbyshu/tree/master
 
 ## Introduction
 The **KnapSack Problem** is the following problem in combinatorial optimization:
